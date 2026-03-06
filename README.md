@@ -24,4 +24,4 @@ If you have any questions or are interested in contributing to this project, ple
 
 * Author Name (email@institution.edu)
 * Author Name (email@institution.edu)
-* Author Name (email@institution.edu)
+* Nabila Fairuz (nfairu1@lsu.edu)
